@@ -1,3 +1,5 @@
+console.log(dados);
+
 function buscar() {
     // Seleciona a seção onde os resultados serão exibidos
     let section = document.getElementById("resultados-pesquisa");
